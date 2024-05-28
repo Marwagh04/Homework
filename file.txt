@@ -1,0 +1,6 @@
+id= 0 | title= Buy groceries | description= Buy milk, eggs, and bread | location= Supermarket | finishDate= 13/03/2024 10:00 | isCompleted= 0
+id= 1 | title= Doctor's appointment | description= Annual check-up | location= Health Center | finishDate= 13/03/2024 15:00 | isCompleted= 0
+id= 2 | title= Finish project report | description= Complete the final draft of the project report | location= Office | finishDate= 14/03/2024 09:00 | isCompleted= 1
+id= 3 | title= Call plumber | description= Fix the leaking sink in the kitchen | location= Home | finishDate= 15/03/2024 11:30 | isCompleted= 0
+id= 4 | title= Meeting with team | description= Discuss project milestones and next steps | location= Office | finishDate= 16/03/2024 14:00 | isCompleted= 1
+id= 5 | title= Workout | description= Morning workout session at the gym | location= Gym | finishDate= 17/03/2024 07:00 | isCompleted= 0
